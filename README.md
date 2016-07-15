@@ -18,6 +18,7 @@ installation directory
 
 Version History
 ---------------
+* **v1.5** Updated with stuff. Something something version control.
 * **v1.0** Initial release
 
 License Information

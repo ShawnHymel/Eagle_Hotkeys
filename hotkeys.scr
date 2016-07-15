@@ -55,7 +55,7 @@ Assign F7  'display none; display 20 27 29 31 39 41;';
 Assign F8  'display none; display 20 28 30 32 40 42;';
 Assign F9  'display none; display 1 17 18 19 20 21 23;';
 Assign F10 'display none; display 16 17 18 19 20 22 24;';
-Assign F11 'display none; display 1 16 17 18 19 20 21 22 23 24 45 47 51; display -25 -26 -27 -28;';
+Assign F11 'display none; display 1 16 17 18 19 20 21 22 23 24 45 51; display -25 -26 -27 -28;';
 Assign F12 'run toglay.ulp 2; run toglay.ulp 15';
 
 
